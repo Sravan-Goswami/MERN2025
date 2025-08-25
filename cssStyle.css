@@ -1,0 +1,13 @@
+p{
+    background-color: cyan;
+}
+ div p{
+    background-color: red;
+ }
+ .hero{
+    background-color: cornsilk;
+ }
+ #para{
+    background-color: honeydew;
+    color:aliceblue
+ }
