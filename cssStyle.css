@@ -1,5 +1,6 @@
 p{
-    background-color: cyan;
+    background-color: orangered;
+    font-weight: 200;
 }
  div p{
     background-color: red;
